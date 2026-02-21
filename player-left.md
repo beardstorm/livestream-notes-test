@@ -1,2 +1,2 @@
-### Player 1
-### UR Delver
+Player 1
+UR Delver
